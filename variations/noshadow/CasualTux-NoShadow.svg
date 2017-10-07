@@ -283,15 +283,15 @@ Casual Tux NoShadow is released under the same license as the original Tux.
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1101"
+     inkscape:window-width="1365"
      inkscape:window-height="1003"
      id="namedview6319"
      showgrid="false"
      inkscape:zoom="0.81"
-     inkscape:cx="486.8533"
+     inkscape:cx="523.87757"
      inkscape:cy="503.74544"
-     inkscape:window-x="104"
-     inkscape:window-y="31"
+     inkscape:window-x="2010"
+     inkscape:window-y="65"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4655"
      inkscape:object-paths="false"
@@ -333,7 +333,8 @@ Casual Tux NoShadow is released under the same license as the original Tux.
        id="stop4671" />
   </radialGradient>
   <g
-     id="g5159">
+     id="g5159"
+     transform="matrix(1.0508148,0,0,1.0508148,-52.598353,-0.50813843)">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
